@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.xlsx
+*.csv
+*.json
+export_contacts2.py
